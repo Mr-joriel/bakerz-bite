@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Buy 2 Pastries, Get 1 Free",
+    "text": "On all pastries: croissants, éclairs and cinnamon rolls. Mix and match as you like.",
+    "code": "PASTRY2",
+    "badge": "Mon–Wed",
+    "when": "Mon–Wed, all day"
+  },
+  {
+    "title": "20% Off Celebration Cakes",
+    "text": "Applies to any cake above ₦15,000. Perfect for birthdays and anniversaries.",
+    "code": "CAKE20",
+    "badge": "Save 20%",
+    "when": "Ends Saturday"
+  },
+  {
+    "title": "Free Cookie with Coffee",
+    "text": "Get any handcrafted beverage and get one choc chip cookie on the house.",
+    "code": "COOKIEFREE",
+    "badge": "Free treat",
+    "when": "Daily, 8am–11am"
+  },
+  {
+    "title": "Family Pie Bundle",
+    "text": "Any two full-size pies for a flat ₦16,000. Mix apple, lemon or chocolate silk.",
+    "code": "PIEBUNDLE",
+    "badge": "Bundle",
+    "when": "Fri–Sun"
+  },
+  {
+    "title": "15% Student Discount",
+    "text": "Show a valid student ID at the counter and enjoy 15% off your entire bill.",
+    "code": "STUDENT15",
+    "badge": "Students",
+    "when": "Weekdays"
+  },
+  {
+    "title": "10% Off Merchandise",
+    "text": "On all branded mugs, bags, glasses and trays while stocks last.",
+    "code": "MERCH10",
+    "badge": "Merch",
+    "when": "While stocks last"
+  }
+]

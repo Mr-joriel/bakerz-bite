@@ -1,0 +1,1552 @@
+[
+ {
+  "id": "ct",
+  "cat": "cake",
+  "name": "Chocolate Truffle Cake",
+  "img": "choc-truffle",
+  "price": 18500,
+  "r": 4.9,
+  "tags": [
+   "bestseller",
+   "chocolate"
+  ],
+  "desc": "Layers of moist chocolate sponge filled and coated with silky truffle ganache, finished with chocolate curls and truffles.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Dark chocolate",
+   "Cocoa",
+   "Fresh cream",
+   "Eggs",
+   "Brown sugar"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    18500
+   ],
+   [
+    "8 inch",
+    27500
+   ],
+   [
+    "10 inch",
+    38000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Rich dark chocolate",
+   "Serves": "8 to 20",
+   "Keeps": "4 days, refrigerated"
+  }
+ },
+ {
+  "id": "rv",
+  "cat": "cake",
+  "name": "Red Velvet Cake",
+  "img": "red-velvet",
+  "price": 16000,
+  "r": 4.8,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "A velvety cocoa-kissed sponge layered with tangy cream cheese frosting and finished with red velvet crumb.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Buttermilk",
+   "Cocoa",
+   "Cream cheese",
+   "Eggs",
+   "Vanilla"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    16000
+   ],
+   [
+    "8 inch",
+    24500
+   ],
+   [
+    "10 inch",
+    34000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Cocoa and vanilla",
+   "Serves": "8 to 20",
+   "Keeps": "3 days, refrigerated"
+  }
+ },
+ {
+  "id": "bf",
+  "cat": "cake",
+  "name": "Black Forest Cake",
+  "img": "black-forest",
+  "price": 17500,
+  "r": 4.7,
+  "tags": [
+   "chocolate",
+   "fruit"
+  ],
+  "desc": "Chocolate sponge soaked in syrup, layered with whipped cream and dark cherries, topped with chocolate shavings.",
+  "ing": [
+   "Unbleached flour",
+   "Fresh cream",
+   "Dark cherries",
+   "Cocoa",
+   "Eggs",
+   "Dark chocolate",
+   "Cherry syrup"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    17500
+   ],
+   [
+    "8 inch",
+    26000
+   ],
+   [
+    "10 inch",
+    36000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Chocolate and cherry",
+   "Serves": "8 to 20",
+   "Keeps": "3 days, refrigerated"
+  }
+ },
+ {
+  "id": "lb",
+  "cat": "cake",
+  "name": "Lemon Blueberry Cake",
+  "img": "lemon-blueberry",
+  "price": 15500,
+  "r": 4.8,
+  "tags": [
+   "new",
+   "fruit"
+  ],
+  "desc": "Bright lemon sponge folded with fresh blueberries, crowned with lemon buttercream and a candied lemon slice.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Lemon",
+   "Blueberries",
+   "Eggs",
+   "Cream",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    15500
+   ],
+   [
+    "8 inch",
+    23500
+   ],
+   [
+    "10 inch",
+    33000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Lemon and berry",
+   "Serves": "8 to 20",
+   "Keeps": "3 days, refrigerated"
+  }
+ },
+ {
+  "id": "cr",
+  "cat": "pastry",
+  "name": "Butter Croissants",
+  "img": "croissants",
+  "price": 1800,
+  "r": 4.9,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Laminated by hand with real butter. A crisp shell, soft honeycomb inside, baked every morning from 7am.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Milk",
+   "Yeast",
+   "Sugar",
+   "Sea salt"
+  ],
+  "opts": [
+   [
+    "Single",
+    1800
+   ],
+   [
+    "Box of 4",
+    6800
+   ]
+  ],
+  "spec": {
+   "Flavour": "Buttery and flaky",
+   "Serves": "1 person",
+   "Keeps": "Best the same day"
+  }
+ },
+ {
+  "id": "ec",
+  "cat": "pastry",
+  "name": "Chocolate Éclair",
+  "img": "eclair",
+  "price": 2400,
+  "r": 4.8,
+  "tags": [
+   "chocolate"
+  ],
+  "desc": "Light choux pastry filled with vanilla crème pâtissière and glazed with dark chocolate.",
+  "ing": [
+   "Flour",
+   "Real butter",
+   "Eggs",
+   "Milk",
+   "Vanilla",
+   "Dark chocolate"
+  ],
+  "opts": [
+   [
+    "Single",
+    2400
+   ],
+   [
+    "Box of 4",
+    9000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Vanilla and chocolate",
+   "Serves": "1 person",
+   "Keeps": "1 day, refrigerated"
+  }
+ },
+ {
+  "id": "cn",
+  "cat": "pastry",
+  "name": "Cinnamon Rolls",
+  "img": "cinnamon",
+  "price": 2500,
+  "r": 4.7,
+  "tags": [
+   "eggless"
+  ],
+  "desc": "Soft swirled dough with cinnamon sugar, finished with vanilla cream glaze. Made without eggs.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Cinnamon",
+   "Brown sugar",
+   "Milk",
+   "Vanilla glaze"
+  ],
+  "opts": [
+   [
+    "Single",
+    2500
+   ],
+   [
+    "Box of 4",
+    9500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Warm cinnamon",
+   "Serves": "1 person",
+   "Keeps": "2 days"
+  }
+ },
+ {
+  "id": "cc",
+  "cat": "cookie",
+  "name": "Chocolate Chip Cookies",
+  "img": "cookies",
+  "price": 1200,
+  "r": 4.8,
+  "tags": [
+   "bestseller",
+   "chocolate"
+  ],
+  "desc": "Crisp edges, chewy middles and big pools of dark chocolate. Baked fresh through the day.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Dark chocolate",
+   "Brown sugar",
+   "Eggs",
+   "Sea salt"
+  ],
+  "opts": [
+   [
+    "Single",
+    1200
+   ],
+   [
+    "Box of 6",
+    6500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Dark chocolate",
+   "Serves": "1 person",
+   "Keeps": "5 days, airtight"
+  }
+ },
+ {
+  "id": "ap",
+  "cat": "pie",
+  "name": "Lattice Apple Pie",
+  "img": "apple-pie",
+  "price": 14500,
+  "r": 4.8,
+  "tags": [
+   "fruit",
+   "vegan",
+   "eggless"
+  ],
+  "desc": "Cinnamon apples under a golden lattice crust. Made with plant butter, so it is vegan. Slices on request.",
+  "ing": [
+   "Apples",
+   "Flour",
+   "Plant butter",
+   "Cinnamon",
+   "Brown sugar",
+   "Lemon"
+  ],
+  "opts": [
+   [
+    "Slice",
+    3200
+   ],
+   [
+    "Whole 9 inch",
+    14500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Sweet and spiced",
+   "Serves": "Whole serves 8",
+   "Keeps": "3 days"
+  }
+ },
+ {
+  "id": "lm",
+  "cat": "pie",
+  "name": "Lemon Meringue Pie",
+  "img": "lemon-meringue",
+  "price": 13500,
+  "r": 4.7,
+  "tags": [
+   "new",
+   "fruit"
+  ],
+  "desc": "Buttery tart shell, tangy lemon curd and a torched meringue cloud.",
+  "ing": [
+   "Flour",
+   "Real butter",
+   "Lemon",
+   "Eggs",
+   "Sugar",
+   "Cornflour"
+  ],
+  "opts": [
+   [
+    "Slice",
+    3000
+   ],
+   [
+    "Whole 9 inch",
+    13500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Tangy and sweet",
+   "Serves": "Whole serves 8",
+   "Keeps": "2 days, refrigerated"
+  }
+ },
+ {
+  "id": "mc",
+  "cat": "cake",
+  "name": "Mocha Coffee Cake",
+  "img": "choc-truffle",
+  "price": 17500,
+  "r": 4.7,
+  "tags": [
+   "chocolate"
+  ],
+  "desc": "Coffee-soaked chocolate sponge layered with mocha buttercream and a dusting of cocoa.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Espresso",
+   "Cocoa",
+   "Eggs",
+   "Fresh cream"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    17500
+   ],
+   [
+    "8 inch",
+    26500
+   ],
+   [
+    "10 inch",
+    37000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Coffee and chocolate",
+   "Serves": "8 to 20",
+   "Keeps": "4 days, refrigerated"
+  }
+ },
+ {
+  "id": "rvc",
+  "cat": "cake",
+  "name": "Red Velvet Cupcakes",
+  "img": "red-velvet-cupcakes",
+  "price": 6500,
+  "r": 4.8,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Six velvety cupcakes crowned with cream cheese frosting. Ideal for office treats.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Buttermilk",
+   "Cocoa",
+   "Cream cheese",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Box of 6",
+    6500
+   ],
+   [
+    "Box of 12",
+    12500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Cocoa and vanilla",
+   "Serves": "6 to 12",
+   "Keeps": "3 days"
+  }
+ },
+ {
+  "id": "cg",
+  "cat": "cake",
+  "name": "Cherry Chocolate Gateau",
+  "img": "black-forest",
+  "price": 19000,
+  "r": 4.7,
+  "tags": [
+   "chocolate",
+   "fruit"
+  ],
+  "desc": "Dark chocolate layers, kirsch-free cherry compote and whipped cream. A showstopper.",
+  "ing": [
+   "Unbleached flour",
+   "Dark chocolate",
+   "Cherries",
+   "Fresh cream",
+   "Eggs",
+   "Cocoa"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    19000
+   ],
+   [
+    "8 inch",
+    28500
+   ],
+   [
+    "10 inch",
+    40000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Chocolate and cherry",
+   "Serves": "8 to 20",
+   "Keeps": "3 days, refrigerated"
+  }
+ },
+ {
+  "id": "ld",
+  "cat": "cake",
+  "name": "Lemon Drizzle Cake",
+  "img": "lemon-blueberry",
+  "price": 14500,
+  "r": 4.6,
+  "tags": [
+   "fruit"
+  ],
+  "desc": "Zesty lemon sponge soaked in lemon syrup and finished with a glossy glaze.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Lemon",
+   "Eggs",
+   "Sugar",
+   "Yoghurt"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    14500
+   ],
+   [
+    "8 inch",
+    22000
+   ],
+   [
+    "10 inch",
+    30500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Zesty lemon",
+   "Serves": "8 to 20",
+   "Keeps": "4 days"
+  }
+ },
+ {
+  "id": "bbc",
+  "cat": "cake",
+  "name": "Blueberry Cream Cake",
+  "img": "lemon-blueberry",
+  "price": 16500,
+  "r": 4.8,
+  "tags": [
+   "new",
+   "fruit"
+  ],
+  "desc": "Vanilla sponge with blueberry compote and light mascarpone cream.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Blueberries",
+   "Mascarpone",
+   "Eggs",
+   "Vanilla"
+  ],
+  "opts": [
+   [
+    "6 inch",
+    16500
+   ],
+   [
+    "8 inch",
+    25000
+   ],
+   [
+    "10 inch",
+    34500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Vanilla and berry",
+   "Serves": "8 to 20",
+   "Keeps": "3 days, refrigerated"
+  }
+ },
+ {
+  "id": "ac",
+  "cat": "pastry",
+  "name": "Almond Croissant",
+  "img": "almond-croissant",
+  "price": 2600,
+  "r": 4.8,
+  "tags": [],
+  "desc": "Our butter croissant filled with almond cream and topped with flaked almonds. Contains nuts.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Almonds",
+   "Milk",
+   "Yeast",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Single",
+    2600
+   ],
+   [
+    "Box of 4",
+    9800
+   ]
+  ],
+  "spec": {
+   "Flavour": "Nutty and buttery",
+   "Serves": "1 person",
+   "Keeps": "Best the same day"
+  }
+ },
+ {
+  "id": "cc2",
+  "cat": "pastry",
+  "name": "Chocolate Croissant",
+  "img": "choc-croissants",
+  "price": 2200,
+  "r": 4.9,
+  "tags": [
+   "bestseller",
+   "chocolate"
+  ],
+  "desc": "Flaky butter croissant folded around two bars of dark chocolate.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Dark chocolate",
+   "Milk",
+   "Yeast",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Single",
+    2200
+   ],
+   [
+    "Box of 4",
+    8300
+   ]
+  ],
+  "spec": {
+   "Flavour": "Buttery chocolate",
+   "Serves": "1 person",
+   "Keeps": "Best the same day"
+  }
+ },
+ {
+  "id": "hc",
+  "cat": "pastry",
+  "name": "Ham and Cheese Croissant",
+  "img": "croissants",
+  "price": 3000,
+  "r": 4.6,
+  "tags": [],
+  "desc": "A savoury croissant with smoked turkey ham and melted cheddar. Our breakfast favourite.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Turkey ham",
+   "Cheddar",
+   "Milk",
+   "Yeast"
+  ],
+  "opts": [
+   [
+    "Single",
+    3000
+   ],
+   [
+    "Box of 4",
+    11500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Savoury",
+   "Serves": "1 person",
+   "Keeps": "Best the same day"
+  }
+ },
+ {
+  "id": "ve",
+  "cat": "pastry",
+  "name": "Vanilla Éclair",
+  "img": "eclair",
+  "price": 2300,
+  "r": 4.7,
+  "tags": [
+   "new"
+  ],
+  "desc": "Choux pastry filled with vanilla crème pâtissière and glazed with white fondant.",
+  "ing": [
+   "Flour",
+   "Real butter",
+   "Eggs",
+   "Milk",
+   "Vanilla",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Single",
+    2300
+   ],
+   [
+    "Box of 4",
+    8700
+   ]
+  ],
+  "spec": {
+   "Flavour": "Vanilla",
+   "Serves": "1 person",
+   "Keeps": "1 day, refrigerated"
+  }
+ },
+ {
+  "id": "ce",
+  "cat": "pastry",
+  "name": "Coffee Éclair",
+  "img": "eclair",
+  "price": 2500,
+  "r": 4.6,
+  "tags": [],
+  "desc": "Choux pastry filled with coffee cream and topped with espresso glaze.",
+  "ing": [
+   "Flour",
+   "Real butter",
+   "Eggs",
+   "Milk",
+   "Espresso",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Single",
+    2500
+   ],
+   [
+    "Box of 4",
+    9500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Coffee",
+   "Serves": "1 person",
+   "Keeps": "1 day, refrigerated"
+  }
+ },
+ {
+  "id": "sb",
+  "cat": "pastry",
+  "name": "Pecan Sticky Bun",
+  "img": "cinnamon",
+  "price": 2800,
+  "r": 4.7,
+  "tags": [
+   "eggless"
+  ],
+  "desc": "Soft cinnamon dough baked in caramel with toasted pecans. Contains nuts, made without eggs.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Pecans",
+   "Brown sugar",
+   "Cinnamon",
+   "Milk"
+  ],
+  "opts": [
+   [
+    "Single",
+    2800
+   ],
+   [
+    "Box of 4",
+    10500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Caramel and pecan",
+   "Serves": "1 person",
+   "Keeps": "2 days"
+  }
+ },
+ {
+  "id": "dcc",
+  "cat": "cookie",
+  "name": "Double Chocolate Cookies",
+  "img": "cookies",
+  "price": 1300,
+  "r": 4.8,
+  "tags": [
+   "chocolate",
+   "eggless"
+  ],
+  "desc": "Cocoa dough packed with dark chocolate chunks. Made without eggs.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "Cocoa",
+   "Dark chocolate",
+   "Brown sugar",
+   "Milk"
+  ],
+  "opts": [
+   [
+    "Single",
+    1300
+   ],
+   [
+    "Box of 6",
+    7000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Double chocolate",
+   "Serves": "1 person",
+   "Keeps": "5 days, airtight"
+  }
+ },
+ {
+  "id": "orc",
+  "cat": "cookie",
+  "name": "Oatmeal Raisin Cookies",
+  "img": "cookies",
+  "price": 1200,
+  "r": 4.5,
+  "tags": [
+   "vegan",
+   "eggless"
+  ],
+  "desc": "Rolled oats, plump raisins and warm cinnamon. Made with plant butter, fully vegan.",
+  "ing": [
+   "Rolled oats",
+   "Raisins",
+   "Flour",
+   "Plant butter",
+   "Brown sugar",
+   "Cinnamon"
+  ],
+  "opts": [
+   [
+    "Single",
+    1200
+   ],
+   [
+    "Box of 6",
+    6500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Oats and spice",
+   "Serves": "1 person",
+   "Keeps": "5 days, airtight"
+  }
+ },
+ {
+  "id": "wcm",
+  "cat": "cookie",
+  "name": "White Chocolate Macadamia Cookies",
+  "img": "cookies",
+  "price": 1500,
+  "r": 4.7,
+  "tags": [
+   "new"
+  ],
+  "desc": "Buttery cookies with white chocolate and crunchy macadamia nuts. Contains nuts.",
+  "ing": [
+   "Unbleached flour",
+   "Real butter",
+   "White chocolate",
+   "Macadamia nuts",
+   "Eggs",
+   "Brown sugar"
+  ],
+  "opts": [
+   [
+    "Single",
+    1500
+   ],
+   [
+    "Box of 6",
+    8200
+   ]
+  ],
+  "spec": {
+   "Flavour": "Sweet and nutty",
+   "Serves": "1 person",
+   "Keeps": "5 days, airtight"
+  }
+ },
+ {
+  "id": "pbc",
+  "cat": "cookie",
+  "name": "Peanut Butter Cookies",
+  "img": "cookies",
+  "price": 1300,
+  "r": 4.6,
+  "tags": [],
+  "desc": "Crumbly cookies made with roasted Nigerian groundnuts. Contains nuts.",
+  "ing": [
+   "Groundnuts",
+   "Flour",
+   "Real butter",
+   "Brown sugar",
+   "Eggs",
+   "Salt"
+  ],
+  "opts": [
+   [
+    "Single",
+    1300
+   ],
+   [
+    "Box of 6",
+    7000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Roasted peanut",
+   "Serves": "1 person",
+   "Keeps": "5 days, airtight"
+  }
+ },
+ {
+  "id": "chl",
+  "cat": "pie",
+  "name": "Cherry Lattice Pie",
+  "img": "apple-pie",
+  "price": 14000,
+  "r": 4.6,
+  "tags": [
+   "fruit"
+  ],
+  "desc": "Sweet and tart cherries under a golden lattice crust. Serve warm.",
+  "ing": [
+   "Cherries",
+   "Flour",
+   "Real butter",
+   "Sugar",
+   "Cornflour",
+   "Lemon"
+  ],
+  "opts": [
+   [
+    "Slice",
+    3000
+   ],
+   [
+    "Whole 9 inch",
+    14000
+   ]
+  ],
+  "spec": {
+   "Flavour": "Sweet and tart",
+   "Serves": "Whole serves 8",
+   "Keeps": "3 days"
+  }
+ },
+ {
+  "id": "kl",
+  "cat": "pie",
+  "name": "Key Lime Meringue Pie",
+  "img": "lemon-meringue",
+  "price": 13500,
+  "r": 4.5,
+  "tags": [
+   "fruit"
+  ],
+  "desc": "Tangy lime curd in a buttery shell, topped with toasted meringue.",
+  "ing": [
+   "Flour",
+   "Real butter",
+   "Lime",
+   "Eggs",
+   "Sugar",
+   "Cornflour"
+  ],
+  "opts": [
+   [
+    "Slice",
+    3000
+   ],
+   [
+    "Whole 9 inch",
+    13500
+   ]
+  ],
+  "spec": {
+   "Flavour": "Tangy and sweet",
+   "Serves": "Whole serves 8",
+   "Keeps": "2 days, refrigerated"
+  }
+ },
+ {
+  "id": "n28",
+  "cat": "cake",
+  "name": "Vanilla Bean Cake",
+  "img": "vanilla-cake",
+  "price": 16000,
+  "r": 4.6,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Light vanilla sponge with real vanilla bean and buttercream.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Eggs",
+   "Vanilla bean",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    16000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n29",
+  "cat": "cake",
+  "name": "Strawberry Shortcake",
+  "img": "strawberry-cake",
+  "price": 19000,
+  "r": 4.9,
+  "tags": [
+   "fruit",
+   "new"
+  ],
+  "desc": "Soft sponge layered with fresh cream and strawberries.",
+  "ing": [
+   "Flour",
+   "Cream",
+   "Strawberries",
+   "Eggs",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    19000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n30",
+  "cat": "cake",
+  "name": "Carrot Cake",
+  "img": "carrot-cake",
+  "price": 17500,
+  "r": 4.7,
+  "tags": [],
+  "desc": "Spiced carrot sponge with cream cheese frosting.",
+  "ing": [
+   "Carrots",
+   "Flour",
+   "Cinnamon",
+   "Cream cheese",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Standard",
+    17500
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n31",
+  "cat": "cake",
+  "name": "Coffee Walnut Cake",
+  "img": "coffee-cake",
+  "price": 18000,
+  "r": 4.7,
+  "tags": [],
+  "desc": "Coffee sponge with walnut buttercream.",
+  "ing": [
+   "Flour",
+   "Coffee",
+   "Walnuts",
+   "Butter",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Standard",
+    18000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n32",
+  "cat": "cake",
+  "name": "Pineapple Upside-Down Cake",
+  "img": "pineapple-cake",
+  "price": 16500,
+  "r": 4.8,
+  "tags": [
+   "fruit"
+  ],
+  "desc": "Caramelised pineapple on buttery sponge.",
+  "ing": [
+   "Pineapple",
+   "Flour",
+   "Butter",
+   "Brown sugar",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Standard",
+    16500
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n33",
+  "cat": "cake",
+  "name": "Banana Loaf Cake",
+  "img": "banana-loaf",
+  "price": 9500,
+  "r": 4.5,
+  "tags": [
+   "vegan"
+  ],
+  "desc": "Moist ripe-banana loaf, dairy free.",
+  "ing": [
+   "Ripe bananas",
+   "Flour",
+   "Sugar",
+   "Vegetable oil"
+  ],
+  "opts": [
+   [
+    "Standard",
+    9500
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n34",
+  "cat": "cake",
+  "name": "Cheesecake",
+  "img": "cheesecake",
+  "price": 21000,
+  "r": 4.6,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Creamy baked cheesecake on a biscuit base.",
+  "ing": [
+   "Cream cheese",
+   "Biscuit",
+   "Butter",
+   "Eggs",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    21000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n35",
+  "cat": "cake",
+  "name": "Funfetti Birthday Cake",
+  "img": "funfetti-cake",
+  "price": 20000,
+  "r": 4.4,
+  "tags": [
+   "new"
+  ],
+  "desc": "Colourful sprinkle sponge for celebrations.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Sprinkles",
+   "Eggs",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    20000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n36",
+  "cat": "pastry",
+  "name": "Almond Croissant",
+  "img": "almond-croissant",
+  "price": 2500,
+  "r": 4.5,
+  "tags": [
+   "new"
+  ],
+  "desc": "Butter croissant filled with almond cream.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Almonds",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    2500
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n37",
+  "cat": "pastry",
+  "name": "Danish Pastry",
+  "img": "danish",
+  "price": 2200,
+  "r": 4.9,
+  "tags": [
+   "fruit"
+  ],
+  "desc": "Flaky pastry with custard and fruit.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Custard",
+   "Fruit"
+  ],
+  "opts": [
+   [
+    "Standard",
+    2200
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n38",
+  "cat": "pastry",
+  "name": "Sausage Roll",
+  "img": "sausage-roll",
+  "price": 1500,
+  "r": 4.8,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Seasoned sausage in golden flaky pastry.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Sausage",
+   "Spices"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1500
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n39",
+  "cat": "pastry",
+  "name": "Doughnut",
+  "img": "doughnut",
+  "price": 1200,
+  "r": 4.4,
+  "tags": [
+   "vegan"
+  ],
+  "desc": "Soft ring doughnut with sugar glaze.",
+  "ing": [
+   "Flour",
+   "Yeast",
+   "Sugar",
+   "Oil"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1200
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n40",
+  "cat": "pastry",
+  "name": "Chin Chin Pack",
+  "img": "chinchin",
+  "price": 2000,
+  "r": 4.3,
+  "tags": [
+   "vegan"
+  ],
+  "desc": "Crunchy Nigerian chin chin, freshly fried.",
+  "ing": [
+   "Flour",
+   "Sugar",
+   "Nutmeg",
+   "Oil"
+  ],
+  "opts": [
+   [
+    "Standard",
+    2000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n41",
+  "cat": "pastry",
+  "name": "Puff Puff Box",
+  "img": "puff-puff",
+  "price": 1800,
+  "r": 4.9,
+  "tags": [
+   "vegan"
+  ],
+  "desc": "Soft golden puff puff, fried to order.",
+  "ing": [
+   "Flour",
+   "Yeast",
+   "Sugar",
+   "Oil"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1800
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n42",
+  "cat": "cookie",
+  "name": "Oatmeal Raisin Cookie",
+  "img": "oatmeal-cookie",
+  "price": 1200,
+  "r": 4.3,
+  "tags": [],
+  "desc": "Chewy oats and plump raisins.",
+  "ing": [
+   "Oats",
+   "Raisins",
+   "Butter",
+   "Flour"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1200
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n43",
+  "cat": "cookie",
+  "name": "Double Chocolate Cookie",
+  "img": "double-choc-cookie",
+  "price": 1400,
+  "r": 4.5,
+  "tags": [
+   "chocolate",
+   "bestseller"
+  ],
+  "desc": "Cocoa dough with chocolate chunks.",
+  "ing": [
+   "Flour",
+   "Cocoa",
+   "Chocolate",
+   "Butter"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1400
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n44",
+  "cat": "cookie",
+  "name": "Butter Shortbread",
+  "img": "shortbread",
+  "price": 1100,
+  "r": 4.6,
+  "tags": [],
+  "desc": "Crumbly classic butter shortbread.",
+  "ing": [
+   "Flour",
+   "Butter",
+   "Sugar"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1100
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n45",
+  "cat": "cookie",
+  "name": "Peanut Butter Cookie",
+  "img": "peanut-cookie",
+  "price": 1300,
+  "r": 4.9,
+  "tags": [],
+  "desc": "Rich peanut butter, soft centre.",
+  "ing": [
+   "Peanut butter",
+   "Flour",
+   "Sugar",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1300
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n46",
+  "cat": "pie",
+  "name": "Meat Pie",
+  "img": "meat-pie",
+  "price": 1800,
+  "r": 4.4,
+  "tags": [
+   "bestseller"
+  ],
+  "desc": "Minced beef and potato in flaky pastry.",
+  "ing": [
+   "Beef",
+   "Potato",
+   "Flour",
+   "Butter"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1800
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n47",
+  "cat": "pie",
+  "name": "Chicken Pie",
+  "img": "chicken-pie",
+  "price": 1800,
+  "r": 4.7,
+  "tags": [],
+  "desc": "Creamy chicken and vegetable filling.",
+  "ing": [
+   "Chicken",
+   "Carrot",
+   "Peas",
+   "Flour",
+   "Butter"
+  ],
+  "opts": [
+   [
+    "Standard",
+    1800
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ },
+ {
+  "id": "n48",
+  "cat": "pie",
+  "name": "Pumpkin Pie",
+  "img": "pumpkin-pie",
+  "price": 9000,
+  "r": 4.7,
+  "tags": [
+   "new"
+  ],
+  "desc": "Spiced pumpkin custard in a buttery crust.",
+  "ing": [
+   "Pumpkin",
+   "Flour",
+   "Butter",
+   "Cinnamon",
+   "Eggs"
+  ],
+  "opts": [
+   [
+    "Standard",
+    9000
+   ]
+  ],
+  "spec": {
+   "Fresh": "Baked daily"
+  }
+ }
+]

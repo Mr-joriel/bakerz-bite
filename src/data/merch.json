@@ -1,0 +1,92 @@
+[
+  {
+    "id": "m1",
+    "name": "Ceramic Coffee Mug",
+    "img": "mug",
+    "kind": "Mug",
+    "price": 3500,
+    "r": 4.8,
+    "desc": "Speckled stoneware mug with our logo. Holds a generous 350 ml.",
+    "ing": [
+      "Stoneware",
+      "Food-safe glaze"
+    ],
+    "opts": [
+      [
+        "Single",
+        3500
+      ]
+    ],
+    "spec": {
+      "Capacity": "350 ml",
+      "Care": "Dishwasher safe"
+    }
+  },
+  {
+    "id": "m2",
+    "name": "Canvas Tote Bag",
+    "img": "tote",
+    "kind": "Bag",
+    "price": 4500,
+    "r": 4.7,
+    "desc": "Heavy cotton tote that fits a 10 inch cake box. Reusable and washable.",
+    "ing": [
+      "12 oz cotton canvas"
+    ],
+    "opts": [
+      [
+        "Single",
+        4500
+      ]
+    ],
+    "spec": {
+      "Size": "40 x 36 cm",
+      "Care": "Machine wash cold"
+    }
+  },
+  {
+    "id": "m3",
+    "name": "Etched Glass Tumbler",
+    "img": "tumbler",
+    "kind": "Glass",
+    "price": 3800,
+    "r": 4.6,
+    "desc": "Clear glass tumbler with our logo etched into the side, 300 ml.",
+    "ing": [
+      "Tempered glass"
+    ],
+    "opts": [
+      [
+        "Single",
+        3800
+      ]
+    ],
+    "spec": {
+      "Capacity": "300 ml",
+      "Care": "Dishwasher safe"
+    }
+  },
+  {
+    "id": "m4",
+    "name": "Wooden Serving Tray",
+    "img": "tray",
+    "kind": "Tray",
+    "price": 8500,
+    "r": 4.9,
+    "desc": "Solid wood tray, perfect for serving cakes, cookies and coffee at home.",
+    "ing": [
+      "Solid wood",
+      "Steel handles"
+    ],
+    "opts": [
+      [
+        "Single",
+        8500
+      ]
+    ],
+    "spec": {
+      "Size": "45 x 28 cm",
+      "Care": "Wipe clean"
+    }
+  }
+]
