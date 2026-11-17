@@ -17,16 +17,26 @@ const LINKS = [
 
 export default function Header() {
   const [open, setOpen] = useState(false)
-  const [dark, setDark] = useState(false)
+  // start from the saved choice, or from the phone/computer's own light/dark setting
+  const [dark, setDark] = useState(() => {
+    try {
+      const saved = localStorage.getItem('bb-theme')
+      if (saved) return saved === 'dark'
+    } catch { /* storage blocked: ignore */ }
+    return window.matchMedia('(prefers-color-scheme: dark)').matches
+  })
   const visits = useVisitorCount()
   const { pathname } = useLocation()
 
   useEffect(() => { setOpen(false) }, [pathname]) // close menu after navigating
 
+  // keep the page in step with the button, so the icon and the colours always agree
+  useEffect(() => { document.documentElement.dataset.theme = dark ? 'dark' : 'light' }, [dark])
+
   const toggleTheme = () => {
     const next = !dark
     setDark(next)
-    document.documentElement.dataset.theme = next ? 'dark' : 'light'
+    try { localStorage.setItem('bb-theme', next ? 'dark' : 'light') } catch { /* ignore */ }
   }
 
   const links = LINKS.map(([to, label]) => (
